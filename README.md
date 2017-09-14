@@ -2,7 +2,6 @@
 ### PowerShell tool to play with Kerberos S4U extensions
 #### This module can assist blue teams to identify risky Kerberos delegation configurations as well as red teams to impersonate arbitrary users by leveraging KCD with Protocol Transition
 
-More info on Black hat slides: https://www.slideshare.net/MatanHart/delegate-to-the-top-abusing-kerberos-for-arbitrary-impersonations-and-rce
 
 ## Usage
 ### Install the module
